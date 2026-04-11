@@ -204,7 +204,7 @@ pval <- summary(model)$coefficients["rs1861", "Pr(>|t|)"]
 
 cat("rs1861: Beta =", beta, ", p-value =", pval, "\n")
 
-cat ("The beta coefficient for rs1861 is approximately 0.974, indicating that each additional copy of the minor allele is associated with an increase of about 0.974 units in the phenotype under an additive model.\n")
+cat ("The beta coefficient for rs1861 is approximately 0.974, indicating that each additional copy of the major allele is associated with an increase of about 0.974 units in the phenotype under an additive model.\n")
 ```
 (iii) Plot the scatterplot of phenotype versus the genotype of SNP rs1861. Add the regression line to the plot.
 
