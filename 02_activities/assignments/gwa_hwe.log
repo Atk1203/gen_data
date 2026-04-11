@@ -1,0 +1,15 @@
+PLINK v1.90p 64-bit (6 Sep 2023)
+Options in effect:
+  --bfile gwa.qc.A1
+  --hardy
+  --out gwa_hwe
+
+Hostname: Athiras-MacBook-Pro.local
+Working directory: /Users/athira/Desktop/gen_data/02_activities/assignments
+Start time: Thu Mar 19 01:00:27 2026
+
+Random number seed: 1773862227
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+Error: Failed to open gwa.qc.A1.bed.
+
+End time: Thu Mar 19 01:00:27 2026
